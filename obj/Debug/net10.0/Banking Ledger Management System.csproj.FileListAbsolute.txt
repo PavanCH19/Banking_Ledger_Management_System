@@ -1,0 +1,40 @@
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\appsettings.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Banking Ledger Management System.staticwebassets.endpoints.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Banking Ledger Management System.exe
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Banking Ledger Management System.deps.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Banking Ledger Management System.runtimeconfig.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Banking Ledger Management System.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Banking Ledger Management System.pdb
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\DnsClient.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\MongoDB.Bson.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\MongoDB.Driver.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\SharpCompress.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Snappier.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\bin\Debug\net10.0\ZstdSharp.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.csproj.AssemblyReference.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.AssemblyInfoInputs.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.AssemblyInfo.cs
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.csproj.CoreCompileInputs.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\scopedcss\bundle\Banking Ledger Management System.styles.css
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking .E1C2064C.Up2Date
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\refint\Banking Ledger Management System.dll
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.pdb
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\Banking Ledger Management System.genruntimeconfig.cache
+C:\Users\PavanHottigoudra\source\repos\Banking Ledger Management System\Banking Ledger Management System\obj\Debug\net10.0\ref\Banking Ledger Management System.dll
